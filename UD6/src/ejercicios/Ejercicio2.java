@@ -28,5 +28,6 @@ public class Ejercicio2 {
 		int num = (int) (Math.random() * (numrandom2 - numrandom)) + numrandom;
 		JOptionPane.showMessageDialog(null, "Primer número: \n" + numrandom + "\n" + "Segundo número: \n" + numrandom2
 				+ "\n Numero aleatorio: \n" + num);
+		
 	}
 }
