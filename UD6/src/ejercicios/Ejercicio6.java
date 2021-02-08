@@ -24,7 +24,7 @@ public class Ejercicio6 {
 		for (int i = 0; i <= contar; i++) {
 
 		}
-		System.out.println("EL numero es: " + contar);
+		System.out.println("EL numero de cifras es: " + contar);
 		return contar;
 	}
 
